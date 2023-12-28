@@ -1,6 +1,6 @@
 # 2023-cpl-coding
 > 2023 CPL Coding
-- new to c programming
+- new to C Programming Language
 - learn some skills about coding
 
 ## Cmake
@@ -12,4 +12,7 @@
 
 ## 默认初始化一些东西
 - `//` single-line comment gcc翻译的时候会完全忽略掉，但是对程序员很重要
-- 
+
+$$
+ss
+$$
